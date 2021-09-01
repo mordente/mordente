@@ -9,3 +9,5 @@ I'm a backend software engineer who is passionate about solving problems. Some t
 
 - 📃 Know about my experiences https://www.linkedin.com/in/pedro-mordente-6638a51ba/
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mordente&show_icons=true&theme=radical)
+
