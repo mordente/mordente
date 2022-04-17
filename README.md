@@ -1,7 +1,7 @@
 ##                                                                         Hi, I'm Pedro 👋
 
 
-I'm a backend developer who is passionate about solving problems. Some technologies I enjoy working with include NodeJS, Express, MongoDB, Redux, Java, Springboot and AWS Services.
+I'm a backend developer who is passionate about solving problems. Some technologies I enjoy working with include NodeJS, Express, MongoDB, Redux, Redis, Kafka, Java, Springboot and AWS Services.
 
 - ⚙  My projects are available at https://github.com/mordente
 
