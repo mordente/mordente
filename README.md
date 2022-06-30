@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">I'm a backend developer who is passionate about solving problems. Some technologies I enjoy working with include NodeJS, Express, MongoDB, Redux, Redis, Kafka, Java, Springboot and AWS Services.</h3>
+<h1 align="center">Pedro Mordente</h1>
+<h3 align="center">Hi 👋🏻, I'm a backend developer who is passionate about solving problems. Some technologies I enjoy working with include NodeJS, Typescript, Express, NestJS, AWS, MongoDB, Postgres, Redux, Redis, Kafka.</h3>
 
 - 🔭 I’m currently working on [ViteBot](https://www.vitebot.com/)
 
